@@ -1,3 +1,20 @@
-# Text-Comparison
-Program that compares two text files and identifies plagiarism between them
-hello this is new
+# philli36-20-21-project
+Repository for philli36 in SCC-110
+
+How to run:
+- javac *.java
+- java Plagiarism
+
+Capabilities Of The Program:
+- Reads all 5 files and tokenises (Removes punctuation + whitespace)
+- Analysies the frequency of each word in both selected files (via drop down menu) and outputs into a table
+- Comparese each of the files using phrase matching with a settable phrase length (via dropdown menu)
+- Ignores phrases within quote marks and displays the results within the phrase matcher table
+- Provides highlighted text to show where the matched phrases were (via the "view" text button)
+- Allows the user to look up the freqency of any word within any file
+- The tables can be sorted by clicking on the headers (ranking by word or freqency depending on users need)
+- Provides a nice interactive GUI for the user to navigate through 
+
+Notes:
+- Feel free to leave any comments or questions
+- Hope you enjoy :)
