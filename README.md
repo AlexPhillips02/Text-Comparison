@@ -1,4 +1,4 @@
-# philli36-20-21-project
+# Text-Comparison
 This project was a 1st year university project that compares two text files for similarites (plagiarism)
 The git commits are limited as I had to wait unitil after I had submitted and it had been marked in order to publish the project
 
